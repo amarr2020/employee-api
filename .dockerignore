@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.venv
+venv
+env
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov
+tests
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Database
+*.db
+
+# Environment
+.env
+.env.local
+
+# Documentation
+*.md
+
+# Misc
+Makefile
+.dockerignore
